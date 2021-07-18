@@ -1,4 +1,4 @@
-from flask import Flask
+from flask import Flas
 app=Flask(__name__)
 
 # run_with_ngrok(app)
